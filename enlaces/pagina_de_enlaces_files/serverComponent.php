@@ -1,0 +1,2 @@
+
+Bootstrapper._serverTime = '2024-09-19 16:13:42'; Bootstrapper._clientIP = '2801:1ca:8:711:f4cd:61a3:9fd:6052'; Bootstrapper.insertPageFiles(['https://nexus.ensighten.com/hearst/mag-es/code/2cbeb700d0eefc898c15e028e84e7f58.js?conditionId0=4855839','https://nexus.ensighten.com/hearst/mag-es/code/303f0a223e59193fb3b33cf372fa6b0b.js?conditionId0=324930']);Bootstrapper.setPageSpecificDataDefinitionIds([7296,7297,7298,7300,7301,7302,19023,50641,50642,7382,19360,19361,7282,18802,7283,7284,18868,18933,7286,7287,7288,7289,7291,7292,7293,7294,7295]);
